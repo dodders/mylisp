@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1483158309 source:/Users/george/git/mylisp/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481993526 source:/Users/george/git/mylisp/mpc.c
+	"mpc.h"
+
+1481993523 /Users/george/git/mylisp/mpc.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+	<ctype.h>
+
+1483116674 source:/Users/george/git/mylisp/parsing.c
+	<stdio.h>
+	<stdlib.h>
+	"mpc.h"
+	<editline/readline.h>
+
